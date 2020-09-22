@@ -18,7 +18,7 @@ const get = async (message, user) => {
     coins: 5, //starter values
     logs: [], //coin logs of the user
     banned: false, 
-    ticket: 2,
+    ticket: 0,
     freecoins: 1 //time 
   } 
   
