@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 
 module.exports = {
 
-  name: "announce",
+  name: "annon",
 
   description: "used to announced something in #announcements, owner only.",
 
@@ -18,7 +18,7 @@ module.exports = {
 
     
 
-    let channel = message.guild.channels.find(channel => channel.name === "announcements")
+    let channel = message.guild.channels.find(channel => channel.name === "↬➕↫bot-info")
 
     
 
