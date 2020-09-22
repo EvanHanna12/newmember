@@ -19,7 +19,7 @@ module.exports = {
     
     db.add(`coins_${message.author.id}`, 2) 
     
-    cooldown.set(message.author.id, time + 86400);
+    cooldown.set(message.author.id, time + 864000000);
 
     data.logs.unshift(`[+2] - Got Daily Bonus !`)
 

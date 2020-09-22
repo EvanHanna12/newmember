@@ -15,11 +15,11 @@ const get = async (message, user) => {
   //now we will create default values 
   //this object is based on user's ID
   let object_user_based = {
-    coins: 0, //starter values
+    coins: 5, //starter values
     logs: [], //coin logs of the user
     banned: false, 
-    ticket: 0,
-    freecoins: 0 //time 
+    ticket: 2,
+    freecoins: 1 //time 
   } 
   
   //this object is based on Guild's ID
