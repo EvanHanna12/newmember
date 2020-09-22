@@ -33,6 +33,8 @@ module.exports = {
     let embed = new Discord.RichEmbed()
 
     .setColor(config.embedColor)
+    
+    .setImage("https://cdn.discordapp.com/attachments/758036298002071682/758040120233295932/standard.gif")
 
     .setTitle(`${client.user.username} Commands List`)
 
