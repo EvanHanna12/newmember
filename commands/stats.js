@@ -57,6 +57,16 @@ module.exports = {
         true
 
       )*/
+  /*  .addField(
+        `Kullanıcılar`,
+        client.bot.guilds.reduce((a, b) => a + b.memberCount, 0).toLocaleString(),
+        true
+      )*/
+    .addField(
+        `User Count`,
+       client.bot.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString(),
+        true
+      )
 
       .addField(`Users Count `, client.users.size.toLocaleString(), false)
 
