@@ -40,13 +40,13 @@ module.exports = {
 
     .setDescription(`
 
-    • \`-bal\` : To get your balance\n**Usage:** \`>bal\`
+    • \`-bal\`  : To get your balance\n**Usage:** \`>bal\`
 
     • \`-find\` : To find some server to join and get coins\n**Usage:** \`-find\`
 
-    • \`-pay\` : To pay some coins to user\n**Usage:** \`-pay [User] [Coins]\`
+    • \`-pay\`  : To pay some coins to user\n**Usage:** \`-pay [User] [Coins]\`
 
-    • \`-give\` : To Give
+    • \`-give\` : You can give your own coin to a friend or someone with this command\n**Usage:** \`-give [User] [Coin]\`
 
     • \`-ad\` : To buy members for your server\n**Usage:** \`-ad [Coins] [Any message]\`
 
@@ -62,7 +62,7 @@ module.exports = {
 
     • \`-report\` : To report any Bug In the bot\n**Usage:** \`-report\`
 
-    • \`>Support\`=> **__[Support Server](https://discord.gg/f2VrDkR)__** | **__[Invite The Bot](https://bit.ly/2CficlV)__** | **__[Vote for Bot]()__**`)
+    • \`-support\`=> **__[Support Server](https://discord.gg/f2VrDkR)__** | **__[Invite The Bot](https://bit.ly/2CficlV)__** | **__[Vote for Bot]()__**`)
 
     .setFooter(`${config.botName} bot`)
 

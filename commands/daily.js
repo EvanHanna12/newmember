@@ -17,12 +17,12 @@ module.exports = {
 
     
     
-    db.add(`coins_${message.author.id}`, 1) 
+    db.add(`coins_${message.author.id}`, 2) 
     
-    cooldown.set(message.author.id, time + 86400000);
+    cooldown.set(message.author.id, time + 86400);
 
-    data.logs.unshift(`[+1] - Got Daily Bonus !`)
+    data.logs.unshift(`[+2] - Got Daily Bonus !`)
 
-    message.channel.send(`The **${message.author.tag}** Has 1 coins as Daily Coins`)
+    message.channel.send(`The **${message.author.tag}** Has 2 coins as Daily Coins`)
   } 
 } 
