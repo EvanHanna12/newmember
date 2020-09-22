@@ -40,25 +40,27 @@ module.exports = {
 
     .setDescription(`
 
-    \`-bal\` : To get your balance\n**Usage:** \`>bal\`
+    • \`-bal\` : To get your balance\n**Usage:** \`>bal\`
 
-    • \`-find\` : To find some server to join and get coins\n**Usage:** \`>find\`
+    • \`-find\` : To find some server to join and get coins\n**Usage:** \`-find\`
 
-    • \`-pay\` : To pay some coins to user\n**Usage:** \`>pay [User] [Coins]\`
+    • \`-pay\` : To pay some coins to user\n**Usage:** \`-pay [User] [Coins]\`
 
-    • \`-ad\` : To buy members for your server\n**Usage:** \`>ad [Coins] [Any message]\`
+    • \`-give\` : To Give
+
+    • \`-ad\` : To buy members for your server\n**Usage:** \`-ad [Coins] [Any message]\`
 
     • \`-check\` : To check that you can leave joined server safely without lossing coins\n**Usage:** \`>check\`
 
-    • \`-daily\` : To get daily coins\n**Usage:** \`>daily\`
+    • \`-daily\` : To get daily coins\n**Usage:** \`-daily\`
 
-    • \`-ticket\` : To buy lottery ticket of 5 coins\n**Usage:** \`>ticket\`
+    • \`-ticket\` : To buy lottery ticket of 5 coins\n**Usage:** \`-ticket\`
 
-    • \`-help\` : To get help message\n**Usage:** \`>help\`
+    • \`-help\` : To get help message\n**Usage:** \`-help\`
 
-    • \`-invite\` : To invite the bot to your server\n**Usage:** \`>invite\`
+    • \`-invite\` : To invite the bot to your server\n**Usage:** \`-invite\`
 
-    • \`-report\` : To report any Bug In the bot\n**Usage:** \`>report\`
+    • \`-report\` : To report any Bug In the bot\n**Usage:** \`-report\`
 
     • \`>Support\`=> **__[Support Server](https://discord.gg/f2VrDkR)__** | **__[Invite The Bot](https://bit.ly/2CficlV)__** | **__[Vote for Bot]()__**`)
 
