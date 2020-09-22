@@ -62,11 +62,11 @@ module.exports = {
         client.bot.guilds.reduce((a, b) => a + b.memberCount, 0).toLocaleString(),
         true
       )*/
-    .addField(
+   /* .addField(
         `User Count`,
-       client.bot.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString(),
+       client.bot.guild.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString(),
         true
-      )
+      )*/
 
       .addField(`Users Count `, client.users.size.toLocaleString(), false)
 
