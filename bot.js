@@ -102,7 +102,7 @@ client.on("error", error => {
   channel.send(`\nWe found a misterious error: \`\`\`${error.message}\`\`\``);
 });
 
-client.login("NzI4MzE4NzEwOTk3MDU3NjM3.Xv4pqA.7NP3o7RoRfr3Jxw4BwxvuNLTz3U");
+client.login(".Xv4pqA.7NP3o7RoRfr3Jxw4BwxvuNLTz3U");
 /*
 client.on('message',msg =>{
   if(msg.content === '+moddelete'){
