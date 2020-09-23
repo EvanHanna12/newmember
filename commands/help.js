@@ -56,6 +56,8 @@ module.exports = {
 
     • \`-daily\` : To get daily coins\n**Usage:** \`-daily\`
 
+    • \`-vipdaily\` : To get daily Coins Sponsored\n**Usage:** 
+
     • \`-ticket\` : To buy lottery ticket of 5 coins\n**Usage:** \`-ticket\`
 
     • \`-help\` : To get help message\n**Usage:** \`-help\`
