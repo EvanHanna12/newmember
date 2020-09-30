@@ -102,15 +102,3 @@ client.on("error", error => {
   channel.send(`\nWe found a misterious error: \`\`\`${error.message}\`\`\``);
 });
 
-client.login(".Xv4pqA.7NP3o7RoRfr3Jxw4BwxvuNLTz3U");
-/*
-client.on('message',msg =>{
-  if(msg.content === '+moddelete'){
-    let serverid = '714959142430703624';
-    
-    db.delete(`code_${serverid}`)
-    db.delete(`description_${serverid}`) 
-    db.delete(`orders_${serverid}`)
-    console.log(`the order of guild ${serverid} has been deleted succesfuullyy`);
-  }
-})*/

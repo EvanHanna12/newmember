@@ -1,13 +1,13 @@
 {
-    "token": ".Xv4pqA.7NP3o7RoRfr3Jxw4BwxvuNLTz3U", 
-    "prefix": "-",
-    "ownersID": ["725800411172307015","475913938694045697","449619212177113109"],
-    "ownerName": ["`MehmetS™#0001","`Bilal™#0010 ","`Cyrus™ "],
-    "botID": "728318710997057637", 
-    "botName": "Users+", 
+    "token": "TOKENİ YAZ", 
+    "prefix": "PREFİX",
+    "ownersID": ["SAHİP ID 1","SAHİP ID 2","SAHİP ID 3"],
+    "ownerName": ["NİCK#ETİKET","NİCK#ETİKET","NİCK#ETİKET"],
+    "botID": "BOTUN ID Sİ", 
+    "botName": "BOTUNUZUN İSMİ", 
     "embedColor": "#00ffff",
-    "JoinchannelID": "757656459873091634",
-    "LeavechannelID": "757656459873091634",
-    "errorChannelID": "757656459873091634",
-    "reportChannelID": "757656459873091634"
+    "JoinchannelID": "JOİN CHANNEL ID",
+    "LeavechannelID": "LEAVE CHANNEL ID",
+    "errorChannelID": "ERROR CHANNEL ID",
+    "reportChannelID": "REPORT CHANNEL ID"
 }

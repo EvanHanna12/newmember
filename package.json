@@ -7,7 +7,7 @@
     "start": "node bot.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "array-sort": "^1.0.0",
     "ascii-art": "^2.5.0",
