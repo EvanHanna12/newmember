@@ -4,10 +4,10 @@
     "ownersID": ["SAHİP ID 1","SAHİP ID 2","SAHİP ID 3"],
     "ownerName": ["NİCK#ETİKET","NİCK#ETİKET","NİCK#ETİKET"],
     "botID": "BOTUN ID Sİ", 
-    "botName": "BOTUNUZUN İSMİ", 
+    "botName": "System+", 
     "embedColor": "#00ffff",
-    "JoinchannelID": "JOİN CHANNEL ID",
-    "LeavechannelID": "LEAVE CHANNEL ID",
-    "errorChannelID": "ERROR CHANNEL ID",
-    "reportChannelID": "REPORT CHANNEL ID"
+    "JoinchannelID": "761293818171097103",
+    "LeavechannelID": "761293932025348148",
+    "errorChannelID": "761293970688573451",
+    "reportChannelID": "761293845291466802"
 }
